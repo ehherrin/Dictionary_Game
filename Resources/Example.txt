@@ -1,0 +1,5 @@
+Optimal path = cold -> cord -> word -> ward -> warm
+
+Optimal path = small -> shall -> shale -> share -> shore -> short
+
+Optimal path = shale -> shame -> shams -> seams -> reams -> roams -> rooms -> zooms
