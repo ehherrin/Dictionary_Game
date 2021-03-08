@@ -1,9 +1,9 @@
 """
 Author: Edward Herrin
 Date: 02/02/2020
-Description: This program will take a user-supplied word and will make a series of singular character changes, which
-    produce a valid word within a user-supplied dictionary, until it is converted into a user-supplied goal word. The
-    agent will use a breadth-first search to accomplish this task.
+Description: This program will take two user supplied words of the same length and will make a series of singular
+    character changes, which produce a valid word within a user supplied dictionary, until it is converted into a user
+    supplied goal word. The agent will use a breadth-first search to accomplish this task.
 """
 # Sys is required to obtain the command line arguments from the user.
 import sys
